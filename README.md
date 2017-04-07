@@ -1,6 +1,6 @@
 # Vehicle-Emission-Analysis
 
-![Alt image]()
+![Alt image](https://github.com/PauloRlopez/Vehicle-Emission-Analysis/blob/master/images/emmi-oval.png?raw="emmi-oval")
 
 
 Using data exploratory analysis and Logistic regression to find out which fuel types contribute to more emissions.
