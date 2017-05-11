@@ -60,4 +60,4 @@ The data comes from the US Department of Energy and details the fuel economy fro
 Fuel economy data are the result of vehicle testing done at the Environmental Protection Agency's National Vehicle and Fuel Emissions Laboratory in Ann Arbor, Michigan, and by vehicle manufacturers with oversight by EPA.
 
 
-*Thank you*
+**Thank you**
